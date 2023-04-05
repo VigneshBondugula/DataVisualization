@@ -1,0 +1,14 @@
+Necessary packages :
+Plotly
+matplotlib
+numpy
+pandas
+scipy
+
+Files : 
+DataGenerator - To generate data pickles
+ScalarFieldPlotter and VectorFieldPlotter - Helper classes
+IsoSurface - To generate isosurface plots
+Slicing** - Slicing plots
+StreamlinesDepth - To generate Streamline animation along the depth profile
+StreamlinesTime - To generate Streamline animation progressing in time

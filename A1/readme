@@ -1,0 +1,18 @@
+Necessary packages :
+Plotly
+gif
+dash
+numpy
+pandas
+
+Files : 
+DataGenerator - To generate pickles
+ScalarFieldPlotter and VectorFieldPlotter - Helper classes
+ContourMapping - Contour Maps interactive plot
+ColorMapping - Color Maps interactive plot
+VectorPlot - Quiver interactive plot
+VectorScalar - Quiver+Contour interactive plot
+ScalarAnimationLive - Contour interactive animation
+ScalarAnimation - Contour animation gif generator
+VectorAnimation - Quiver animation gif generator
+VectorScalarAnimation - Quiver+Contour animation gif generator
